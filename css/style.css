@@ -11,3 +11,13 @@ body, html {
 	height:50px;
 	width:50px;
 }
+
+.personsNameSpace {
+	align-items: center;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: center;
+	pointer-events: none;
+	position: fixed;
+	z-index: 200;
+}
