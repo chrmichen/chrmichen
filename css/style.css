@@ -6,3 +6,8 @@ body, html {
 .something {
 	background-color: grey;
 }
+
+.carpet {
+	height: 50 px;
+	width: 50 px;
+}
