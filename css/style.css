@@ -3,6 +3,11 @@ body, html {
 	min-height: 100%;
 }
 
+div {
+	display: block;
+	unicode-bidi: isolate;
+}
+
 .something {
 	background-color: grey;
 }
@@ -11,6 +16,11 @@ body, html {
 	height:50px;
 	width:50px;
 }
+
+.page {
+	box-sizing: border-box;
+}
+
 
 .personsNameSpace {
 	align-items: center;
