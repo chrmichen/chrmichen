@@ -1,0 +1,8 @@
+body, html {
+	height: auto;
+	min-height: 100%;
+}
+
+.something {
+	background-color: grey;
+}
